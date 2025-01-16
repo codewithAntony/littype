@@ -2,7 +2,7 @@ import Header from './Components/Header';
 
 function App() {
     return (
-        <div>
+        <div className="bg-[#0F0F15]">
             <Header />
         </div>
     );
